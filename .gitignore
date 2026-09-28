@@ -1,0 +1,13 @@
+# TikTok OAuth token (gizli)
+py/common/social/.tiktok_auth.json
+
+# Env dosyaları
+.env
+*.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Log dosyaları
+*.log
